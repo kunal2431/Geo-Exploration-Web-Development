@@ -1,6 +1,6 @@
 # Geo-Exploration-Web-Development
 
-This project was developed by Kunal Prabhakar Sangurmath for Fall 2023 course CS367 - Database-backed Websites, University of Massachusetts Boston under the guidance of Prof.Beatrice M Perez.
+This project was developed for Fall 2023 course CS367 - Database-backed Websites, University of Massachusetts Boston.
 
 The following are the functionalities implemented in this Web Project:
 1) A comprehensive list of minerals together with their elemental composition will be accessible.
